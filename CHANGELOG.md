@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.3.0](https://github.com/emiketic/emiketic-starter-react-native/compare/v1.2.0...v1.3.0) (2022-08-10)
+
+
+### Features
+
+* Added profile pictures to user seed + improved admin/user seed + upgraded Strapi ([8fe4448](https://github.com/emiketic/emiketic-starter-react-native/commit/8fe44481efa0a7999e3d5b90bf57ce07ced25448))
+* Upgraded Strapi version + seed private API usage ([0d4022f](https://github.com/emiketic/emiketic-starter-react-native/commit/0d4022fb55a485f06f1c8de26c0488815059ee70))
+
 ## [1.2.0](https://github.com/emiketic/emiketic-starter-react-native/compare/v1.0.0...v1.2.0) (2022-03-09)
 
 
